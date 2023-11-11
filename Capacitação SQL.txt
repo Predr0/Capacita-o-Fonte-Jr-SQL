@@ -1,0 +1,12 @@
+CREATE TABLE { colunas da tabela.. } - Cria uma tabela
+DROP TABLE - Remove uma tabela
+ALTER TABLE 'nome da tabela' ADD COLUMN 'nome da coluna' - altera para criar uma nova coluna na tabela
+SELECT * FROM 'nome da coluna' - mostra todos os dados do trecho da tabela
+CREATE DATABASE- Cria um banco de dados
+DROP DATABASE - Remove
+
+INSERT - Insere algum dado dentro da tabela
+SELECT - Leitura dos dados
+UPDATE - Atualiza os dados específicos já inseridos em uma tabela (usar where constantemente nesse comando)
+DELETE - Deleta os dados em específicos já inseridos em uma tabela (também usar where)
+* - Para realizar o comando para todos os dados da tabela
